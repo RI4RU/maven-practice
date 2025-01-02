@@ -7,6 +7,7 @@
 	<title>INDEX</title>
 </head>
 <body>
+	<%-- 주석임 --%>
 	<h1>INDEX</h1>
 </body>
 </html>
