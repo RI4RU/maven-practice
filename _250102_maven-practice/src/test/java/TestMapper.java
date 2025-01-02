@@ -1,5 +1,6 @@
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
+import static org.junit.Assert.assertSame;
 
 import java.time.LocalDateTime;
 
@@ -20,5 +21,4 @@ public class TestMapper {
 			assertEquals(2025, result.getYear());
 		}
 	}
-
 }
